@@ -1,2 +1,2 @@
 # MockitoTestSamples
-Basic testing using Mockito
+Basic testing using Mockito.
